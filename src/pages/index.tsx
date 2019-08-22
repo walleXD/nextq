@@ -1,8 +1,9 @@
 import React, { ReactElement } from 'react'
+import { Typography } from '@material-ui/core'
 
 const IndexPage = (): ReactElement => (
   <>
-    <h1>Hello</h1>
+    <Typography>Hello</Typography>
   </>
 )
 
