@@ -4,7 +4,7 @@
     {
       "type": "chrome",
       "request": "launch",
-      "name": "Next: Chrome",
+      "name": "Next: Browser",
       "url": "http://localhost:3000",
       "webRoot": "${workspaceFolder}/src",
       "runtimeExecutable": "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
